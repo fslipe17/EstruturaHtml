@@ -1,0 +1,73 @@
+body{
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background: url(../img/fundo.jpg) center/cover no-repeat;
+}
+.login{
+    width: 300px;
+    padding: 50px 20px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #000000;
+    background-color: rgb(59, 10, 10);
+    align-items: center;
+    margin: 20px;
+    border-radius: 12px;
+    background: url(../img/fundologin.jpg) center/cover no-repeat;
+    color: white;
+    
+}
+.email{
+    font-weight: bolder;
+    
+    width:70%;
+    height: 40px;
+    margin: auto 0 ;
+    border: 2px solid transparent;
+    border-radius: 8px;
+}
+.senha{
+    font-weight: bolder;
+    align-items: center;
+    height: 40px;
+    width: 70%;
+    border: 2px solid  transparent;
+    border-radius: 8px;
+}
+.botao{
+    background-color: purple;
+    margin: 26px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    width: 70%;
+    height: 40px;
+    border-color: purple;
+    color: black;
+    font-weight: bolder;
+    border-radius: 6px;
+}
+.cadastro{
+    margin: 8px 4px;
+}
+
+.titulo{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+}
+.Temail{
+    margin: 3px;
+    padding: 10px;
+    color: aliceblue;
+}
+.Tsenha{
+    margin: 3px;
+    padding: 10px;
+    color: aliceblue;
+}
