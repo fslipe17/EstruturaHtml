@@ -1,4 +1,4 @@
-# Site para exeplificar a estrutura de uma pagina de Login
+# Site para exemplificar a estrutura de uma pagina de Login
 
 Nesse Repositório criei um site que contém a estrutura de uma pagina de login, Utilizando Html, Css.
 
